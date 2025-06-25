@@ -1,0 +1,17 @@
+[
+    {
+        "title": "Inception",
+        "reviews": [
+            {
+                "reviewer": "varma",
+                "comment": "good movie!",
+                "rating": 2
+            },
+            {
+                "reviewer": "mokshagna",
+                "comment": "climax is vere level",
+                "rating": 3
+            }
+        ]
+    }
+]
