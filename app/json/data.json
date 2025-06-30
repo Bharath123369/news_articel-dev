@@ -1,16 +1,31 @@
 [
     {
-        "title": "Inception",
+        "title": "Bahubali",
         "reviews": [
             {
-                "reviewer": "varma",
-                "comment": "good movie!",
-                "rating": 2
+                "reviewer": "Haritha",
+                "rating": 3.0,
+                "comment": "climax is extradionary!"
             },
             {
-                "reviewer": "mokshagna",
-                "comment": "climax is vere level",
-                "rating": 3
+                "reviewer": "manasa",
+                "rating": 4.0,
+                "comment": "movie is awesome"
+            }
+        ]
+    },
+    {
+        "title": "8vasanthalu",
+        "reviews": [
+            {
+                "reviewer": "poojitha",
+                "rating": 4.0,
+                "comment": "climax is extradionary!"
+            },
+            {
+                "reviewer": "ruthwika",
+                "rating": 5.0,
+                "comment": "movie is awesome"
             }
         ]
     }

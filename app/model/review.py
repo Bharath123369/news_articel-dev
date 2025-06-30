@@ -1,6 +1,7 @@
-from pydantic import BaseModel, conint
+from pydantic import BaseModel
 
 class Review(BaseModel):
     reviewer: str
+    rating: float
     comment: str
-    rating: conint(ge=1, le=5)
+  

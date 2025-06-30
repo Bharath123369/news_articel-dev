@@ -7,7 +7,11 @@ import logging
 
 app = FastAPI()
 
-logging.basicConfig(filename="app/log/app.log", level=logging.INFO, format="%(asctime)s - %(message)s")
+logging.basicConfig(
+    filename="app/log/app.log", 
+    level=logging.INFO, 
+    format = '%(asctime)s - %(levelname)s - %(message)s'
+)
 
 DATA_FILE = "app/json/data.json"
 
